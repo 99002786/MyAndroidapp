@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><string name="ent_name">ಹೆಸರನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="ent_pswd">ಪಾಸ್ವರ್ಡ್ ನಮೂದಿಸ</string>
+    <string name="log">ಲಾಗಿನ್ ಮಾಡಿ</string>
+    <string name="cancel">ರದ್ದುಮಾಡಿ</string>
+</resources>

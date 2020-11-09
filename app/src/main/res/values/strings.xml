@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LandTApp</string>
+    <string name="ent_name">Enter name</string>
+    <string name="ent_pswd">Enter password</string>
+    <string name="rem_pswrd">Remember Password</string>
+    <string name="log">Login</string>
+    <string name="cancel">Cancel</string>
+</resources>
